@@ -1,0 +1,6 @@
+{
+  "name": "Academic Performance Predictor",
+  "description": "A comprehensive responsive system for Student Performance Analysis, Attendance Tracking, Academic Records Management, and Prediction Analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
